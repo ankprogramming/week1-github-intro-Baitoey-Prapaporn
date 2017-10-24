@@ -138,13 +138,13 @@ function fancyAlert(arg) {
 
 **เขียนขั้นตอนการทำเมนูอาหารโปรด**
 >หมูกะทะ อร่อยมากๆๆๆ
-1.หั่นหมู เบคอน  สามชั้น ปลาหมึก ตับหมู
-2.หั่นผัก
-3.แช่วุ้นเส้น
-4.ทำน้ำซุปให้อร่อย เคี้ยวนานๆ
-5.เตรียมเครื่องเคียงต่างๆ เช่น ปลาหมึก หมูเด้ง น้ำจิ้ม ฯลฯ
-6.เตรียมก่อเตาถ่าน
-7.ย่างกินได้เลยยย 5555555
+>1.หั่นหมู เบคอน  สามชั้น ปลาหมึก ตับหมู
+>2.หั่นผัก
+>3.แช่วุ้นเส้น
+>4.ทำน้ำซุปให้อร่อย เคี้ยวนานๆ
+>5.เตรียมเครื่องเคียงต่างๆ เช่น ปลาหมึก หมูเด้ง น้ำจิ้ม ฯลฯ
+>6.เตรียมก่อเตาถ่าน
+>7.ย่างกินได้เลยยย 5555555
 
 **แทรกภาพนักศึกษาถ่ายรูปคู่กับอาหารจานนั้น**
 ![alt text](https://024a2f13-a-62cb3a1a-s-sites.googlegroups.com/site/prapaporesunthornwit/home/IMG_4544.JPG?attachauth=ANoY7cr8kncXZquSderyxyhx0_MUQXWfUlehK4omYmdzpoMxj9xRW6KxNqmEeRia44hQmrrD5maFSx5IoKRcBw5GuV9IIXGi4U1tiVo3eM8UWOIK3MGAWpaJ805o3tejvVbqXflH7J6iJm_7zRe7qpbdQcZSyClF45Qetr2Q6LoidP6OdMz3GRYgb15VK8vT8jMilsdGnEjixvYregEqqYLP_c623QTum9jOU4ws5pMbiSkhveofg1U%3D&attredirects=0)
